@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on (My Operation System, My Programming Language, My AI Model, My Social Media Platform)
 
-- 🌱 I’m currently learning **React Native, C++**
+- 🌱 I’m currently learning **React Native, React**
 
 - 🤝 I’m looking for help for my projects if you interesting you can fork any repo and start to contribute
 
