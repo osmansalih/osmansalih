@@ -2,6 +2,59 @@
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/osmansalih/osmansalih/main/name.svg"><img src="https://raw.githubusercontent.com/osmansalih/osmansalih/main/name.svg" alt="Osman Salih (Snixrs)" style="max-width: 100%;"></a>
 </h1>
 
+<style>
+       /* Google chrome */
+      @-webkit-keyframes svg-text-anim {
+       40% {
+          stroke-dashoffset: 0;
+          fill: transparent;
+        }
+        60% {
+          stroke-dashoffset: 0;
+          fill: #b80000;
+        }
+        100% {
+          stroke-dashoffset: 0;
+          fill: #b80000;
+        }
+        
+    }
+    /* Most browsers */
+    @keyframes svg-text-anim {
+       40% {
+          stroke-dashoffset: 0;
+          fill: transparent;
+        }
+        60% {
+          stroke-dashoffset: 0;
+          fill: #b80000;
+        }
+        100% {
+          stroke-dashoffset: 0;
+          fill: #b80000;
+        }
+        
+    }
+</style>
+
+<script>
+  function setTextAnimation(delay, duration, strokeWidth, timingFunction, strokeColor,repeat) {
+            let paths = document.querySelectorAll("path");
+            let mode=repeat?'infinite':'forwards'
+            for (let i = 0; i < paths.length; i++) {
+                const path = paths[i];
+                const length = path.getTotalLength();
+                path.style["stroke-dashoffset"] = `${length}px`;
+                path.style["stroke-dasharray"] = `${length}px`;
+                path.style["stroke-width"] = `${strokeWidth}px`;
+                path.style["stroke"] = `${strokeColor}`;
+                path.style["animation"] = `${duration}s svg-text-anim ${mode} ${timingFunction}`;
+                path.style["animation-delay"] = `${i * delay}s`;
+            }
+        }
+ setTextAnimation(0.1,3,4,'linear','#000000',true);
+</script>
+
 <b>About Me</b>
 
 <h1 align="center">Hi 👋, I'm Osman Salih</h1>
