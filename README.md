@@ -1,3 +1,7 @@
+<h1 class="heading-element" dir="auto">
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/osmansalih/osmansalih/main/name.svg"><img src="https://raw.githubusercontent.com/osmansalih/osmansalih/main/name.svg" alt="Osman Salih (Snixrs)" style="max-width: 100%;"></a>
+</h1>
+
 <b>About Me</b>
 
 <h1 align="center">Hi 👋, I'm Osman Salih</h1>
