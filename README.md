@@ -6,7 +6,7 @@
 <b>About Me</b>
 
 <h1 align="center">Hi 👋, I'm Osman Salih</h1>
-<h3 align="center">Full Stack Developer | Cyber Security Expert From Sudan</h3>
+<h3 align="center">Programmer - Cyber Security Intermediate - Solo Entreprenur</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=osmansalih&label=Profile%20views&color=0e75b6&style=flat" alt="osmansalih" /> </p>
 
@@ -14,17 +14,17 @@
 
 <p align="left"> <a href="https://twitter.com/iosmansalih" target="blank"><img src="https://img.shields.io/twitter/follow/iosmansalih?logo=twitter&style=for-the-badge" alt="iOsmanSalih" /></a> </p>
 
-- 🔭 I’m currently working on (My Operation System, My Programming Language, My AI Model, My Social Media Platform)
+- 🔭 I’m currently working on (Educational Platform, SaaS Business)
 
-- 🌱 I’m currently learning **React Native, React**
+- 🌱 I’m currently learning **Business Building, Trading, Solo Entrepreneurship**
 
-- 🤝 I’m looking for help for my projects if you interesting you can fork any repo and start to contribute
+- 🤝 I’m looking for help for my projects if you interesting you can contribute
 
-- 👨‍💻 My personal website [havnix.000.pe](havnix.000.pe)
+- 👨‍💻 My personal website (Soon)
 
 - 📝 My discord server [https://discord.gg/tCQ5hqUCSm](https://discord.gg/tCQ5hqUCSm)
 
-- 💬 Ask me about **Web Development | Games Development | UI/UX | Cyber Security | Mobile Apps Development**
+- 💬 Ask me about **Programming | UI/UX | Cyber Security | Solo Entrepreneurship**
 
 - 📫 How to reach me **iosmansalih11@gmail.com**
 
