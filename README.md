@@ -6,7 +6,7 @@
 <b>About Me</b>
 
 <h1 align="center">Hi 👋, I'm Osman Salih</h1>
-<h3 align="center">Programmer - Cyber Security Intermediate - Solo Entreprenur</h3>
+<h3 align="center">Programmer - Cyber Security Intermediate - Indie Hacker</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=osmansalih&label=Profile%20views&color=0e75b6&style=flat" alt="osmansalih" /> </p>
 
@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on (Educational Platform, SaaS Business)
 
-- 🌱 I’m currently learning **Business Building, Trading, Solo Entrepreneurship**
+- 🌱 I’m currently learning **Business Building, Trading, Solopreneurship**
 
 - 🤝 I’m looking for help for my projects if you interesting you can contribute
 
